@@ -1,0 +1,23 @@
+#wrapper{
+    height: 100vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+
+}
+.container img{
+    width: 1600px;
+    height: 100%;
+}
+.text{
+    background-color: white;
+}
+.BTN{
+    position: absolute;
+}
